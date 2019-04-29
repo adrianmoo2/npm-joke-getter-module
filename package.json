@@ -1,10 +1,18 @@
 {
   "name": "random-joke-getter",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.1.9",
+  "description": "Funny things sayer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akiyowind/npm-joke-getter-module.git"
+  },
+  "github": {
+    "type": "git",
+    "url": "https://github.com/akiyowind?tab=repositories"
   },
   "author": "Adrian Tran",
   "license": "MIT",
