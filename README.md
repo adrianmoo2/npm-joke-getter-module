@@ -60,7 +60,14 @@ You'll strain your eyes.
 
 If you would like to submit some new jokes, please send a request :). I'd be happy to merge after I vet them.
 
+## Credits
+
+Dad jokes taken from "Dad Joke API" (https://icanhazdadjoke.com/)
+Random and programming jokes taken from "Official Joke API" (https://github.com/15Dkatz/official_joke_api)
+
+
 ## License
 MIT © [Adrian Tran]()
+
 
 
