@@ -45,13 +45,6 @@ How do you check if a webpage is HTML5?
 Try it out on Internet Explorer
 ```
 
-## Contributions
-
-If you would like to submit some new jokes, please send a request :). I'd be happy to merge after I vet them.
-
-## License
-MIT © [Adrian Tran]()
-
 Random joke example:
 
 ```
@@ -59,4 +52,12 @@ Don't look at the eclipse through a colander.
 
 You'll strain your eyes.
 ```
+
+## Contributions
+
+If you would like to submit some new jokes, please send a request :). I'd be happy to merge after I vet them.
+
+## License
+MIT © [Adrian Tran]()
+
 
