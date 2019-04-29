@@ -33,7 +33,9 @@ joker.getRandomJoke (function(joke) {
 ## Examples and Formatting
 
 Dad jokes are formatted on a single line
-Example: Where do rabbits go after they get married? On a bunny-moon.
+Example: 
+
+`Where do rabbits go after they get married? On a bunny-moon.`
 
 Programming and random jokes are formatted with a newline in between the setup and punchline.
 
