@@ -32,7 +32,8 @@ joker.getRandomJoke (function(joke) {
 ```
 ## Examples and Formatting
 
-Dad jokes are formatted on a single line
+Dad jokes are formatted on a single line 
+
 Example: 
 
 `Where do rabbits go after they get married? On a bunny-moon.`
