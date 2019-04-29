@@ -5,12 +5,12 @@
 [![downloads](https://img.shields.io/npm/dm/random-joke-getter.svg)](https://github.com/akiyowind/npm-joke-getter-module)
 
 
-# Install
+## Install
 `     $ npm i --save random-joke-getter`
 
 
 
-# Usage
+## Usage
 
 ```javascript
 var joker = require('random-joke-getter');
@@ -30,7 +30,7 @@ joker.getRandomJoke (function(joke) {
   //=> console.log(joke);
 });
 ```
-# Examples and Formatting
+## Examples and Formatting
 
 Dad jokes are formatted on a single line
 Example: Where do rabbits go after they get married? On a bunny-moon.
@@ -44,6 +44,13 @@ How do you check if a webpage is HTML5?
 
 Try it out on Internet Explorer
 ```
+
+## Contributions
+
+If you would like to submit some new jokes, please send a request :). I'd be happy to merge after I vet them.
+
+## License
+MIT © [Adrian Tran]()
 
 Random joke example:
 
