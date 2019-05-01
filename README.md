@@ -43,9 +43,9 @@ Programming and random jokes are formatted with a newline in between the setup a
 Programming example: 
 
 ```
-There are 10 types of people in this world... Those who  
+There are 10 types of people in this world... 
 
-understand binary and those who don't
+Those who understand binary and those who don't
 ```
 
 Random joke example:
