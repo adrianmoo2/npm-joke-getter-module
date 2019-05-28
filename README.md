@@ -43,9 +43,9 @@ Programming and random jokes are formatted with a newline in between the setup a
 Programming example: 
 
 ```
-How do you check if a webpage is HTML5?
+There are 10 types of people in this world... 
 
-Try it out on Internet Explorer
+Those who understand binary and those who don't
 ```
 
 Random joke example:
