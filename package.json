@@ -21,14 +21,13 @@
     "jokes",
     "dad-joke",
     "dad",
-    "joke",
     "programming-joke",
     "programming",
-    "joke",
     "random",
     "joke",
     "funny",
-    "npm-joke-getter"
+    "npm-joke-getter",
+    "npm-random-joke"
   ],
   "author": "Adrian Tran",
   "license": "MIT",
