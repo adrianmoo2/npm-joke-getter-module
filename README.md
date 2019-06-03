@@ -67,7 +67,7 @@ Random and programming jokes taken from "Official Joke API" (https://github.com/
 
 
 ## License
-MIT © [Adrian Tran]()
+MIT © [Adrian Tran](https://github.com/adrianmoo2/npm-joke-getter-module/blob/master/LICENSE)
 
 
 
