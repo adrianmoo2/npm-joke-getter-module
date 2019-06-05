@@ -4,6 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/random-joke-getter.svg)](https://github.com/akiyowind/npm-joke-getter-module)
 [![downloads](https://img.shields.io/npm/dm/random-joke-getter.svg)](https://github.com/akiyowind/npm-joke-getter-module)
 
+An npm joke module for the hehe and haha'rs out there :). 
 
 ## Install
 `     $ npm i --save random-joke-getter`
