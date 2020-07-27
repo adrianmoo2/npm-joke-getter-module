@@ -1,9 +1,4 @@
 var request = require('request');
-var bodyParser = require('body-parser');
-var express = require('express');
-
-var app = express();
-app.use(bodyParser().json());
 
 exports.getDadJoke = function (joke) {
   var config = {
